@@ -32,8 +32,7 @@ public interface CouponService {
     List<CouponEntity> queryList(Map<String, Object> map);
 
     /**
-     * 分页统计总数
-     *
+     * 分页统计总数fdsafdsafdsafdsaf
      * @param map 参数
      * @return 总数
      */
